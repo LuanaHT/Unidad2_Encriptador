@@ -17,7 +17,7 @@ h1 {
 }
 
 .contenedor {
-    background-color: #D7CCC8; /* Fondo del rectángulo en tono café claro */
+    background-color: #D7CCC8; 
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
@@ -30,7 +30,7 @@ p {
 }
 
 .btnempezar {
-    background-color: #8D6E63; /* Fondo del botón en tono café oscuro */
+    background-color: #8D6E63; 
     color: white;
     border: none;
     border-radius: 55px;
@@ -43,5 +43,5 @@ p {
 }
 
 .btnempezar:hover {
-    background-color: #795548; /* Cambio de color al pasar el mouse */
+    background-color: #795548; 
 }
